@@ -16,7 +16,7 @@ constrói estruturas e acompanha o crescimento da sua cidade turno a turno.
 
 ## Roadmap
 
-- [ ] Semana 1 — estrutura inicial do projeto e status da cidade
+- [x] Semana 1 — estrutura inicial do projeto e status da cidade
 - [ ] Semana 2 — sistema de coordenadas e construção de prédios
 - [ ] Semana 3 — game loop com economia automática por turno
 
@@ -57,4 +57,4 @@ city-builder/
 
 ---
 
-Feito com Python 🐍 e muito axé
+Feito com Python 🐍 e muita preguiça
